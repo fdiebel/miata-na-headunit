@@ -4,9 +4,15 @@ Dash mounting fixture for installing a [Joying JY-UL128N2](https://www.carjoying
 
 ![Image](https://github.com/fdiebel/miata-na-joying/blob/master/img/miata-na-joying.jpg)
 
-Instructions
---------
-I printed the carrier using HIPS filament on the following settings
+## Instructions
+
+Coming soon.
+
+## Printing
+
+![Image](https://raw.githubusercontent.com/fdiebel/miata-na-joying/master/img/print.jpg)
+
+Although ABS would probably be better, I printed the carrier using HIPS filament on the following settings
 
 * Layer height: 0.22
 * Walls: 1.05
