@@ -1,5 +1,3 @@
 *.FCStd1
 /*.sublime-workspace
-node_modules
-bower_components
 .DS_Store
