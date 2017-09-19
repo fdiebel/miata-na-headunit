@@ -6,6 +6,10 @@ Dash mounting fixture for installing a [Joying JY-UL128N2](https://www.carjoying
 
 ## Instructions
 
+![Image](https://raw.githubusercontent.com/fdiebel/miata-na-joying/master/img/interior.jpg)
+
+![Image](https://raw.githubusercontent.com/fdiebel/miata-na-joying/master/img/detail.jpg)
+
 Coming soon.
 
 ## Printing
