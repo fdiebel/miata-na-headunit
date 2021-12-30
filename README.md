@@ -1,6 +1,8 @@
 # Miata NA Head Unit Mount
 
-Dash mounting fixture for installing a [Joying JY-UL128N2](https://www.carjoying.com/joying-automotive-universal-vehicles-ram-2gb-rom-32gb-7-inch-double-2-din-hd-pip-touchscreen-panel-new-developed-android-5-1-1-lollipop-bluetooth-4-0-gps-navigation-professional-head-unit-for-sale-support-mirror-kink-dvr-obd2.html) Android head unit  in a [Miata NA (1990)](http://www.miata.net/gallery/na.html)
+Dash mounting fixtures for universal 7" Android headunits. Carriers specifically designed for the [ATOTO S8 Gen 2](https://www.myatoto.com/index.php?m=content&c=index&a=show&catid=15&id=68) and the older Joying JY-UL128N2. Should work for any 2 DIN head unit by simply moving around the mount points as needed in [FreeCAD](https://www.freecadweb.org/).
+
+Tested and confirmed working in my [Miata NA (1990)](http://www.miata.net/gallery/na.html)
 
 ![Image](https://github.com/fdiebel/miata-na-joying/blob/master/img/miata-na-joying.png)
 
